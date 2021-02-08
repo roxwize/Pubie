@@ -1,2 +1,2 @@
 # Pubie
-https://hoylecake.com/pubie/
+the official community edition for pubie
